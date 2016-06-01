@@ -791,7 +791,7 @@ a:hover .shuzi{
 	color: #E70014;
 	text-decoration: underline;
 }
-footer{
+/*footer{
 	background-color: #E70014;
 }
 
@@ -856,7 +856,6 @@ footer{
 	line-height:84px;
 	float: left;
 	font-size: 18px;
-	/*text-align: center;*/
 	padding-left: 30px;
 }
 .foot-second{
@@ -932,9 +931,9 @@ footer{
 }
 .foot-last{
 	background-color: #3B3B3B;
-	height: 61px;
-	/*width: 1300px;*/
-	width: 1308px;
+	height: 61px;*/
+	
+	/*width: 1308px;
 
 }
 .foot-last-link{
@@ -951,7 +950,7 @@ footer{
 .foot-last-link a:hover{
 	
 	text-decoration: underline;
-}
+}*/
 .fixed-right{
 	width: 55px;
 	height: 378px;
